@@ -1,3 +1,5 @@
 # Pandas Guide
-I have made a guide to use Pandas Library in Python for educational purposes.
-All the information is included in the .ipynb file. 
+
+This is a guide to use Pandas Library in Python with Jupyter Notebook for educational purposes for my colleagues.
+All the information is included in the .ipynb file.
+
